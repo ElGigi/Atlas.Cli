@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 2.3.0
+
+- Add compatibility with psr/log ^2.0 or ^3.0
+
 ## 2.2.2
 
 - Fix #23: fix property return type for ManyToMany
